@@ -1,2 +1,5 @@
 __pycache__/
 draft/
+.idea/
+*/cmake-build-debug/
+cmake-build-debug

@@ -1,0 +1,8 @@
+//
+// Created by Seedking on 2024/1/31.
+//
+
+#ifndef AUTOFTEN_WINDOW_CAPTURE_HPP
+#define AUTOFTEN_WINDOW_CAPTURE_HPP
+
+#endif //AUTOFTEN_WINDOW_CAPTURE_HPP
